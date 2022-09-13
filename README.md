@@ -1,0 +1,1 @@
+# ethel-static-website
