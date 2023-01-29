@@ -3977,7 +3977,7 @@ h3 a:hover{
 .classes-section.style-three .owl-nav {
   position: absolute;
   left: -505px;
-  bottom: 150px;
+  bottom: 13px;
 }
 
 .classes-section.style-three .owl-item:nth-child(odd) .inner-block .link-btn a{
@@ -3991,9 +3991,9 @@ h3 a:hover{
 .classes-section.style-three .anim-icon .icon-2 {
   background: url(../images/icons/anim-icon-13.png);
   width: 265px;
-  height: 400px;
+  height: 254px;
   left: 70px;
-  bottom: -70px;
+  bottom: -35px;
   background-repeat: no-repeat;
   z-index: 1;
 }
